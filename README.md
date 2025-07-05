@@ -10,7 +10,7 @@ The points that lie inside the circle are green and the ones outside the circle 
 
 ![graph.png](./graph.png)
 
-I took the ratio of the number of points inside the circle and the total number of points (inside the square) and compared it to the ratio of the areas between the square and the circle
+I took the ratio of the number of points inside the circle and the total number of points (inside the square) and compared it to the ratio of the areas between the circle and the square
 
 We find that:
 
